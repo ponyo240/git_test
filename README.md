@@ -1,0 +1,1 @@
+This is ponyo240's first git project!
